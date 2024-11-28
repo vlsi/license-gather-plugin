@@ -17,8 +17,8 @@
 
 dependencies {
     implementation(kotlin("reflect"))
-    implementation("com.fasterxml.jackson.core:jackson-core:2.9.8")
-    implementation("com.fasterxml.jackson.core:jackson-databind:2.9.8")
+    implementation("com.fasterxml.jackson.core:jackson-core:2.18.2")
+    implementation("com.fasterxml.jackson.core:jackson-databind:2.18.2")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.9.8")
     implementation("com.squareup:kotlinpoet:1.3.0")
 }
